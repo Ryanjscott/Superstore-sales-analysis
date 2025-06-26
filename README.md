@@ -52,6 +52,15 @@ This project analyzes the Global Superstore dataset to uncover insights in sales
 
 ## Folder Structure
 
+Superstore-sales-analysis/
+├── data/
+│ └── GlobalSuperstore.csv
+├── images/
+│ └── dashboard_screenshot.png
+├── notebook/
+│ └── Superstore_Analysis.ipynb
+└── README.md
+
 ## Interactive Dashboard
 
 Explore the full interactive dashboard here:  
