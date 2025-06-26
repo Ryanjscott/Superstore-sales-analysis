@@ -55,12 +55,15 @@ This project analyzes the Global Superstore dataset to uncover insights in sales
 ## Interactive Dashboard
 
 Explore the full interactive dashboard here:  
-[View on Tableau Public] https://public.tableau.com/app/profile/ryan.scott3358/viz/SuperstoreDashboard_17509118598500/SuperstorePerformanceDashboard 
+[View on Tableau Public](https://public.tableau.com/app/profile/ryan.scott3358/viz/SuperstoreDashboard_17509118598500/SuperstorePerformanceDashboard)
+
 This dashboard includes:
-- Sales by Country
-- Sales by Product Category
-- Profit by Region
-- Monthly Sales Trend with Moving Average
+- Sales by Country  
+- Sales by Product Category  
+- Profit by Region  
+- Monthly Sales Trend with Moving Average  
 - Interactive filters by region and category
 
-![Dashboard Preview] 
+![Dashboard Preview](images/dashboard_screenshot.png)
+
+
